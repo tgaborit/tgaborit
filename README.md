@@ -1,6 +1,7 @@
-Hi there 👋
-🔭 I’m currently working at Lightricity Ltd as an Embedded Systems Engineer
-
+Hi there 👋   
+🔗 You can find my LinkedIn profile [there](https://www.linkedin.com/in/titouangaborit/).  
+📜 And my CV [there](https://www.linkedin.com/in/titouangaborit/details/featured/).  
+🔭 I’m currently working as an Embedded Systems Engineer at Lightricity Ltd.  
 <!-- ### Hi there 👋
 
 <!--
