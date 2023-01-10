@@ -1,7 +1,7 @@
 Hi there 👋   
 🔗 You can find my LinkedIn profile [there](https://www.linkedin.com/in/titouangaborit/).  
 📜 And my CV [there](https://www.linkedin.com/in/titouangaborit/details/featured/).  
-🔭 I’m currently working as an Embedded Systems Engineer at Lightricity Ltd.  
+🔭 I’m currently working as an Embedded Systems Engineer at Lightricity Ltd.
 <!-- ### Hi there 👋
 
 <!--
@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ![](https://hit.yhype.me/github/profile?user_id=43585828)
