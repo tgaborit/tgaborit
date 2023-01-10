@@ -1,3 +1,6 @@
+Hi there 👋
+🔭 I’m currently working at Lightricity Ltd as an Embedded Systems Engineer
+
 <!-- ### Hi there 👋
 
 <!--
